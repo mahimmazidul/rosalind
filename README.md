@@ -16,6 +16,7 @@ Rosalind is a platform for learning bioinformatics through problem solving. It p
 | GC (Computing GC Content) | `stronghold/GC_content.py` | Solved |
 | HAMM (Counting Point Mutations) | `stronghold/HAMM_point_mutations.py` | Solved |
 | IPRB (Mendel's First Law) | `stronghold/IPRB_mendels_first_law.py` | Solved |
+| PROT (Translating RNA into Protein) | `stronghold/PROT_translating_rna.py` | Solved |
 
 ## How to run a solution
 
