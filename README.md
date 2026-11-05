@@ -19,6 +19,7 @@ Rosalind is a platform for learning bioinformatics through problem solving. It p
 | PROT (Translating RNA into Protein) | `stronghold/PROT_translating_rna.py` | Solved |
 | SUBS (Finding a Motif in DNA) | `stronghold/SUBS_finding_a_motif.py` | Solved |
 | CONS (Consensus and Profile) | `stronghold/CONS_consensus_profile.py` | Solved |
+| FIBD (Mortal Fibonacci Rabbits) | `stronghold/FIBD_mortal_fibonacci_rabbits.py` | Solved |
 
 ## How to run a solution
 
