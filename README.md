@@ -13,6 +13,7 @@ Rosalind is a platform for learning bioinformatics through problem solving. It p
 | DNA (Counting DNA Nucleotides) | `stronghold/DNA_counting_nucleotides.py` | Solved |
 | RNA (Transcribing DNA into RNA) | `stronghold/RNA_transcription.py` | Solved |
 | REVC (Complementing a Strand of DNA) | `stronghold/REVC_complement_strand.py` | Solved |
+| GC (Computing GC Content) | `stronghold/GC_content.py` | Solved |
 
 ## How to run a solution
 
