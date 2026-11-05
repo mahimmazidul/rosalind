@@ -38,7 +38,7 @@ Rosalind is a platform for learning bioinformatics through problem solving. It p
 |-------|--------|--------|-------|
 | Bioinformatics Stronghold | `stronghold/` | 21 | 21 |
 | Bioinformatics Armory | `armory/` | 15 | 15 |
-| Algorithmic Heights | `algorithmic_heights/` | 0 | 34 |
+| Algorithmic Heights | `algorithmic_heights/` | 10 | 34 |
 | Bioinformatics Textbook | `textbook/` | 0 | 132 |
 
 ## How to run a solution
