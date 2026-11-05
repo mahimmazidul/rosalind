@@ -29,6 +29,7 @@ Rosalind is a platform for learning bioinformatics through problem solving. It p
 | ORF (Open Reading Frames) | `stronghold/ORF_finding_genes_with_orfs.py` | Solved |
 | PERM (Enumerating Gene Orders) | `stronghold/PERM_enumerating_gene_orders.py` | Solved |
 | PRTM (Calculating Protein Mass) | `stronghold/PRTM_calculating_protein_mass.py` | Solved |
+| REVP (Locating Restriction Sites) | `stronghold/REVP_locating_restriction_sites.py` | Solved |
 
 ## How to run a solution
 
