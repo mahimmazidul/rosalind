@@ -25,6 +25,7 @@ Rosalind is a platform for learning bioinformatics through problem solving. It p
 | LCSM (Finding a Shared Motif) | `stronghold/LCSM_finding_a_shared_motif.py` | Solved |
 | LIA (Independent Alleles) | `stronghold/LIA_independent_alleles.py` | Solved |
 | MPRT (Finding a Protein Motif) | `stronghold/MPRT_finding_a_protein_motif.py` | Solved |
+| MRNA (Inferring mRNA from Protein) | `stronghold/MRNA_inferring_mrna_from_protein.py` | Solved |
 
 ## How to run a solution
 
