@@ -18,6 +18,7 @@ Rosalind is a platform for learning bioinformatics through problem solving. It p
 | IPRB (Mendel's First Law) | `stronghold/IPRB_mendels_first_law.py` | Solved |
 | PROT (Translating RNA into Protein) | `stronghold/PROT_translating_rna.py` | Solved |
 | SUBS (Finding a Motif in DNA) | `stronghold/SUBS_finding_a_motif.py` | Solved |
+| CONS (Consensus and Profile) | `stronghold/CONS_consensus_profile.py` | Solved |
 
 ## How to run a solution
 
