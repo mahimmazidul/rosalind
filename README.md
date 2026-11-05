@@ -23,6 +23,7 @@ Rosalind is a platform for learning bioinformatics through problem solving. It p
 | GRPH (Overlap Graphs) | `stronghold/GRPH_overlap_graph.py` | Solved |
 | IEV (Calculating Expected Offspring) | `stronghold/IEV_calculating_expected_offspring.py` | Solved |
 | LCSM (Finding a Shared Motif) | `stronghold/LCSM_finding_a_shared_motif.py` | Solved |
+| LIA (Independent Alleles) | `stronghold/LIA_independent_alleles.py` | Solved |
 
 ## How to run a solution
 
