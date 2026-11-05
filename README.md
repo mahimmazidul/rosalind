@@ -15,6 +15,7 @@ Rosalind is a platform for learning bioinformatics through problem solving. It p
 | REVC (Complementing a Strand of DNA) | `stronghold/REVC_complement_strand.py` | Solved |
 | GC (Computing GC Content) | `stronghold/GC_content.py` | Solved |
 | HAMM (Counting Point Mutations) | `stronghold/HAMM_point_mutations.py` | Solved |
+| IPRB (Mendel's First Law) | `stronghold/IPRB_mendels_first_law.py` | Solved |
 
 ## How to run a solution
 
