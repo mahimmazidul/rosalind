@@ -32,6 +32,15 @@ Rosalind is a platform for learning bioinformatics through problem solving. It p
 | REVP (Locating Restriction Sites) | `stronghold/REVP_locating_restriction_sites.py` | Solved |
 | SPLC (RNA Splicing) | `stronghold/SPLC_rna_splicing.py` | Solved |
 
+## Track Progress
+
+| Track | Folder | Solved | Total |
+|-------|--------|--------|-------|
+| Bioinformatics Stronghold | `stronghold/` | 21 | 21 |
+| Bioinformatics Armory | `armory/` | 10 | 15 |
+| Algorithmic Heights | `algorithmic_heights/` | 0 | 34 |
+| Bioinformatics Textbook | `textbook/` | 0 | 132 |
+
 ## How to run a solution
 
 Each problem is a standalone Python script. Run it with Python 3:
